@@ -1,6 +1,6 @@
 # Liveness3D-Web
 
-<p>Angular </p><br>
+<b>Angular<br></b>
 Dentro do projeto de exemplo em Angular, localize os diretórios core-sdk e core-sdk-optional no seguinte caminho: src/assets
 Agora é só colar os arquivos e pronto. SDK atualizado com sucesso.
 
