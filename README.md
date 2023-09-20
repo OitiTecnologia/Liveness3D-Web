@@ -1,15 +1,15 @@
 # Liveness3D-Web
 
-Angular 
+<p>Angular </p><br>
 Dentro do projeto de exemplo em Angular, localize os diretórios core-sdk e core-sdk-optional no seguinte caminho: src/assets
 Agora é só colar os arquivos e pronto. SDK atualizado com sucesso.
 
-Javascript
+Javascript<br>
 Arquivos atualizados seguem em anexo: js-facetec.zip 
 Dentro do projeto de exemplo em JavaScript, localize os diretórios core-sdk e core-sdk-optional no seguinte caminho: assets/js
 Agora é só colar os arquivos e pronto. SDK atualizado com sucesso.
 
-React
+React<br>
 Repositório para baixar o projeto sample com os sdks: https://github.com/oititec/liveness-react-example 
 Dentro do projeto de exemplo em React, duas pastas precisam ser atualizadas:
 
